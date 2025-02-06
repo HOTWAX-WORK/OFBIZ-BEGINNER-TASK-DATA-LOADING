@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <Product productId="C2" productTypeId="FINISHED_GOOD" primaryProductCategoryId="CHILDREN" />
+    <Product productId="C1" productTypeId="FINISHED_GOOD" primaryProductCategoryId="CHILDREN" />
+    <Product productId="WP2" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_PARTY"/>
+    <Product productId="WP1" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_PARTY" />
+    <Product productId="WF2" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_FORMAL" />
+    <Product productId="WF1" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_FORMAL"/>
+    <Product productId="WS2" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_SPORT" />
+    <Product productId="WS1" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_SPORT" />
+    <Product productId="MP2" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_PARTY" />
+    <Product productId="MP1" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_PARTY" />
+    <Product productId="MF2" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_FORMAL" />
+    <Product productId="MF1" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_FORMAL" />
+    <Product productId="MS2" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" />
+    <Product productId="MS1" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS"/>
+ 
+</entity-engine-xml>
