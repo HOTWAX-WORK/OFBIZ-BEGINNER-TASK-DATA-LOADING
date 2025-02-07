@@ -54,6 +54,7 @@ under the License.
     <entity-resource type="data" reader-name="demo" loader="main" location="data/product_category.xml"/>
     <entity-resource type="data" reader-name="demo" loader="main" location="data/product_catalog_category.xml"/>
     <entity-resource type="data" reader-name="demo" loader="main" location="data/product.xml"/>
+    <entity-resource type="data" reader-name="demo" loader="main" location="data/PRODUCT_ASSOC.xml"/>
     <entity-resource type="data" reader-name="demo" loader="main" location="data/product_feature.xml"/>
     <entity-resource type="data" reader-name="demo" loader="main" location="data/PRODUCT_FEATURE_APL.xml"/>
     <entity-resource type="data" reader-name="demo" loader="main" location="data/prod_member.xml"/>
